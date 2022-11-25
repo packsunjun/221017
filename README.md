@@ -14,3 +14,4 @@ https://www.g2b.go.kr/index.jsp 나라장터(상식)
 구글 클라우드 학습
 https://www.inflearn.com/ 강의
 
+<img src="웹 캡처_25-11-2022_15930_packsunjun.github.io.jpeg" width="300" height="1000">
